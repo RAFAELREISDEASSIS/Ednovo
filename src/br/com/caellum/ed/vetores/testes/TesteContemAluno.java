@@ -1,5 +1,6 @@
-package br.com.caellum.ed;
+package br.com.caellum.ed.vetores.testes;
 
+import br.com.caellum.ed.Aluno;
 import br.com.caellum.ed.vetores.Vetor;
 
 public class TesteContemAluno {

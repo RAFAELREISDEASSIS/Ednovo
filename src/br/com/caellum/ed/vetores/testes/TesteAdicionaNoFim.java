@@ -1,5 +1,6 @@
-package br.com.caellum.ed;
+package br.com.caellum.ed.vetores.testes;
 
+import br.com.caellum.ed.Aluno;
 import br.com.caellum.ed.vetores.Vetor;
 
 public class TesteAdicionaNoFim {
@@ -7,8 +8,8 @@ public class TesteAdicionaNoFim {
 		Aluno a1 = new Aluno();
 		Aluno a2 = new Aluno();
 		
-		a1.setNome("João");
-		a2.setNome("José");
+		a1.setNome("Rafael");
+		a2.setNome("Paulo");
 		
 		Vetor lista = new Vetor();
 		
